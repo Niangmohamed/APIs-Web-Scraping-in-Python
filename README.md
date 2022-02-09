@@ -1,4 +1,4 @@
-# APIs-Web-Scraping-in-Python
+# APIs Web Scraping in Python
 
 **Author: Mohamed NIANG, ML Scientist**
 
